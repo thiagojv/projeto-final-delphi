@@ -1,0 +1,2 @@
+inherited DtMdlCadastroSequencial: TDtMdlCadastroSequencial
+end
